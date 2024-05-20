@@ -1,11 +1,3 @@
-Literal Ngram Statistic for 1..4-grams
-
-
-RANK	NGramm	F
-1	e	92299
-2	t	64328
-3	a	56685
-4	o	53525
 5	n	52197
 6	h	51156
 7	i	44572
